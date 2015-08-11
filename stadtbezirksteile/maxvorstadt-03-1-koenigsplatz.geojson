@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-11T09:21:02Z",
+  {
+    "type": "Feature",
+    "id": "relation/2638829",
+    "properties": {
+      "@id": "relation/2638829",
+      "admin_level": "10",
+      "boundary": "administrative",
+      "name": "Bezirksteil Königsplatz",
+      "type": "boundary",
+      "@timestamp": "2014-04-30T09:13:59Z",
+      "@version": "2",
+      "@changeset": "22039449",
+      "@user": "Gehrke",
+      "@uid": "14002"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.5738285,
+            48.1434333
+          ],
+          [
+            11.5736909,
+            48.1434673
+          ],
+          [
+            11.5735543,
+            48.1435028
+          ],
+          [
+            11.5693418,
+            48.1448176
+          ],
+          [
+            11.5700027,
+            48.1459102
+          ],
+          [
+            11.5719918,
+            48.1489681
+          ],
+          [
+            11.5720135,
+            48.1490012
+          ],
+          [
+            11.572676,
+            48.1500101
+          ],
+          [
+            11.5716554,
+            48.1502865
+          ],
+          [
+            11.5688338,
+            48.1511007
+          ],
+          [
+            11.5675165,
+            48.1514696
+          ],
+          [
+            11.5668348,
+            48.1503756
+          ],
+          [
+            11.5642468,
+            48.1464105
+          ],
+          [
+            11.5611683,
+            48.1411109
+          ],
+          [
+            11.5651997,
+            48.1397914
+          ],
+          [
+            11.5656153,
+            48.1395271
+          ],
+          [
+            11.5738285,
+            48.1434333
+          ]
+        ]
+      ]
+    }
+  }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-11T09:21:02Z",
+  {
+    "type": "Feature",
+    "id": "relation/66088",
+    "properties": {
+      "@id": "relation/66088",
+      "admin_level": "10",
+      "boundary": "administrative",
+      "name": "Bezirksteil Josephsplatz",
+      "type": "boundary",
+      "@timestamp": "2014-04-30T09:15:49Z",
+      "@version": "8",
+      "@changeset": "22039484",
+      "@user": "Gehrke",
+      "@uid": "14002"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.5605701,
+            48.1575448
+          ],
+          [
+            11.5591367,
+            48.1538688
+          ],
+          [
+            11.5608705,
+            48.153279
+          ],
+          [
+            11.5604728,
+            48.1522577
+          ],
+          [
+            11.5668348,
+            48.1503756
+          ],
+          [
+            11.5675165,
+            48.1514696
+          ],
+          [
+            11.5685078,
+            48.1531972
+          ],
+          [
+            11.5686632,
+            48.1566937
+          ],
+          [
+            11.5672771,
+            48.1567606
+          ],
+          [
+            11.5658946,
+            48.1568042
+          ],
+          [
+            11.5644596,
+            48.1568761
+          ],
+          [
+            11.5639458,
+            48.1569369
+          ],
+          [
+            11.5622523,
+            48.1571726
+          ],
+          [
+            11.5605701,
+            48.1575448
+          ]
+        ]
+      ]
+    }
+  }
+  ]
+}

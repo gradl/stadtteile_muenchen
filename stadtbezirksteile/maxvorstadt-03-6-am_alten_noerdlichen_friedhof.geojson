@@ -1,0 +1,86 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-11T09:21:02Z",
+  {
+    "type": "Feature",
+    "id": "relation/66089",
+    "properties": {
+      "@id": "relation/66089",
+      "admin_level": "10",
+      "boundary": "administrative",
+      "name": "Bezirksteil Am alten nördlichen Friedhof",
+      "type": "boundary",
+      "@timestamp": "2014-04-30T09:15:47Z",
+      "@version": "5",
+      "@changeset": "22039484",
+      "@user": "Gehrke",
+      "@uid": "14002"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.572676,
+            48.1500101
+          ],
+          [
+            11.5733691,
+            48.1509994
+          ],
+          [
+            11.5755243,
+            48.1544885
+          ],
+          [
+            11.5755454,
+            48.1550636
+          ],
+          [
+            11.5733514,
+            48.1557112
+          ],
+          [
+            11.5732013,
+            48.1557605
+          ],
+          [
+            11.5705909,
+            48.156537
+          ],
+          [
+            11.5695948,
+            48.1566488
+          ],
+          [
+            11.5686632,
+            48.1566937
+          ],
+          [
+            11.5685078,
+            48.1531972
+          ],
+          [
+            11.5675165,
+            48.1514696
+          ],
+          [
+            11.5688338,
+            48.1511007
+          ],
+          [
+            11.5716554,
+            48.1502865
+          ],
+          [
+            11.572676,
+            48.1500101
+          ]
+        ]
+      ]
+    }
+  }
+  ]
+}
