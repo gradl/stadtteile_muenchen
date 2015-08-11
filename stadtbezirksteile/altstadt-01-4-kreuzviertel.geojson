@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-11T09:21:02Z",
+  "features": [
+      {
+        "type": "Feature",
+        "id": "relation/67007",
+        "properties": {
+          "@id": "relation/67007",
+          "TMC:cid_58:tabcd_1:Class": "Area",
+          "TMC:cid_58:tabcd_1:LCLversion": "9.00",
+          "TMC:cid_58:tabcd_1:LocationCode": "26392",
+          "admin_level": "10",
+          "boundary": "administrative",
+          "name": "Bezirksteil Kreuzviertel",
+          "type": "boundary",
+          "@timestamp": "2014-05-22T11:26:49Z",
+          "@version": "7",
+          "@changeset": "22484032",
+          "@user": "Gehrke",
+          "@uid": "14002"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                11.5774999,
+                48.1426112
+              ],
+              [
+                11.5768869,
+                48.1427684
+              ],
+              [
+                11.5765772,
+                48.1428343
+              ],
+              [
+                11.5755698,
+                48.1430569
+              ],
+              [
+                11.5738285,
+                48.1434333
+              ],
+              [
+                11.5656153,
+                48.1395271
+              ],
+              [
+                11.5653922,
+                48.1392968
+              ],
+              [
+                11.5652245,
+                48.1390742
+              ],
+              [
+                11.5652221,
+                48.1388331
+              ],
+              [
+                11.5691624,
+                48.1382163
+              ],
+              [
+                11.5732828,
+                48.1358237
+              ],
+              [
+                11.5741959,
+                48.1361408
+              ],
+              [
+                11.5752422,
+                48.1364441
+              ],
+              [
+                11.5747784,
+                48.1372675
+              ],
+              [
+                11.5774999,
+                48.1426112
+              ]
+            ]
+          ]
+        }
+      }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-11T09:21:02Z",
+  {
+    "type": "Feature",
+    "id": "relation/65909",
+    "properties": {
+      "@id": "relation/65909",
+      "admin_level": "10",
+      "boundary": "administrative",
+      "name": "Bezirksteil Am Schlachthof",
+      "type": "boundary",
+      "@timestamp": "2014-04-30T09:14:50Z",
+      "@version": "10",
+      "@changeset": "22039466",
+      "@user": "Gehrke",
+      "@uid": "14002"
+    },
+    "geometry": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            11.5490435,
+            48.124371
+          ],
+          [
+            11.5539637,
+            48.1221173
+          ],
+          [
+            11.5566864,
+            48.1207964
+          ],
+          [
+            11.557698,
+            48.1215586
+          ],
+          [
+            11.5601405,
+            48.1232195
+          ],
+          [
+            11.5619039,
+            48.1251318
+          ],
+          [
+            11.5590735,
+            48.125922
+          ],
+          [
+            11.5581832,
+            48.1262945
+          ],
+          [
+            11.5559017,
+            48.1283937
+          ],
+          [
+            11.5550528,
+            48.1279842
+          ],
+          [
+            11.5542697,
+            48.1275324
+          ],
+          [
+            11.5508082,
+            48.1257956
+          ],
+          [
+            11.5501737,
+            48.1254653
+          ],
+          [
+            11.5496385,
+            48.1250985
+          ],
+          [
+            11.548819,
+            48.1244747
+          ],
+          [
+            11.5490435,
+            48.124371
+          ]
+        ]
+      ]
+    }
+  }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-11T09:21:02Z",
+  "features": [
+      {
+        "type": "Feature",
+        "id": "relation/65917",
+        "properties": {
+          "@id": "relation/65917",
+          "admin_level": "10",
+          "boundary": "administrative",
+          "name": "Bezirksteil Hackenviertel",
+          "type": "boundary",
+          "@timestamp": "2014-04-30T09:14:52Z",
+          "@version": "5",
+          "@changeset": "22039466",
+          "@user": "Gehrke",
+          "@uid": "14002"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                11.5732828,
+                48.1358237
+              ],
+              [
+                11.5691624,
+                48.1382163
+              ],
+              [
+                11.5652221,
+                48.1388331
+              ],
+              [
+                11.5651999,
+                48.1385383
+              ],
+              [
+                11.565175,
+                48.1381641
+              ],
+              [
+                11.5651654,
+                48.13808
+              ],
+              [
+                11.5651337,
+                48.1379286
+              ],
+              [
+                11.5649631,
+                48.1371133
+              ],
+              [
+                11.5649827,
+                48.1362641
+              ],
+              [
+                11.5656779,
+                48.1350862
+              ],
+              [
+                11.5666319,
+                48.1335378
+              ],
+              [
+                11.5667204,
+                48.1334104
+              ],
+              [
+                11.5678402,
+                48.1337473
+              ],
+              [
+                11.5684253,
+                48.1339044
+              ],
+              [
+                11.5687433,
+                48.1338437
+              ],
+              [
+                11.5716855,
+                48.1352311
+              ],
+              [
+                11.5725715,
+                48.1354206
+              ],
+              [
+                11.5732828,
+                48.1358237
+              ]
+            ]
+          ]
+        }
+      }
+  ]
+}
