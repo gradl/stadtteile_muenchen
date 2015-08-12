@@ -1,0 +1,98 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-11T09:21:02Z",
+  "features": [
+      {
+        "type": "Feature",
+        "id": "relation/66114",
+        "properties": {
+          "@id": "relation/66114",
+          "TMC:cid_58:tabcd_1:Class": "Area",
+          "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+          "TMC:cid_58:tabcd_1:LocationCode": "31937",
+          "admin_level": "10",
+          "boundary": "administrative",
+          "name": "Bezirksteil Daglfing",
+          "type": "boundary",
+          "@timestamp": "2014-04-30T09:15:48Z",
+          "@version": "10",
+          "@changeset": "22039484",
+          "@user": "Gehrke",
+          "@uid": "14002"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                11.6652901,
+                48.1403183
+              ],
+              [
+                11.6649078,
+                48.1424287
+              ],
+              [
+                11.6648145,
+                48.1429435
+              ],
+              [
+                11.6679597,
+                48.1577313
+              ],
+              [
+                11.6504299,
+                48.1619478
+              ],
+              [
+                11.64753,
+                48.1624472
+              ],
+              [
+                11.648984,
+                48.1524491
+              ],
+              [
+                11.6490077,
+                48.152111
+              ],
+              [
+                11.6513421,
+                48.1391222
+              ],
+              [
+                11.6534192,
+                48.134872
+              ],
+              [
+                11.6535039,
+                48.1343705
+              ],
+              [
+                11.6538205,
+                48.134532
+              ],
+              [
+                11.6563618,
+                48.1358497
+              ],
+              [
+                11.6575369,
+                48.1363945
+              ],
+              [
+                11.6611298,
+                48.1381781
+              ],
+              [
+                11.6652901,
+                48.1403183
+              ]
+            ]
+          ]
+        }
+      }	  
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-11T09:21:02Z",
+  "features": [
+      {
+        "type": "Feature",
+        "id": "relation/66784",
+        "properties": {
+          "@id": "relation/66784",
+          "admin_level": "10",
+          "boundary": "administrative",
+          "name": "Bezirksteil Alte Kaserne",
+          "type": "boundary",
+          "@timestamp": "2014-08-15T09:45:32Z",
+          "@version": "8",
+          "@changeset": "24763229",
+          "@user": "eartrumpet",
+          "@uid": "1187507"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                11.5397797,
+                48.1553994
+              ],
+              [
+                11.5433315,
+                48.1525412
+              ],
+              [
+                11.544969,
+                48.1511867
+              ],
+              [
+                11.5464265,
+                48.1519573
+              ],
+              [
+                11.5472223,
+                48.1517109
+              ],
+              [
+                11.5530939,
+                48.1548672
+              ],
+              [
+                11.5554365,
+                48.1559631
+              ],
+              [
+                11.5493868,
+                48.1605618
+              ],
+              [
+                11.5473847,
+                48.1594812
+              ],
+              [
+                11.5437409,
+                48.1574746
+              ],
+              [
+                11.542548,
+                48.1568484
+              ],
+              [
+                11.5397797,
+                48.1553994
+              ]
+            ]
+          ]
+        }
+      }	  
+  ]
+}
