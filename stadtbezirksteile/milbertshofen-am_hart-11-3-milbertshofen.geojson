@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2015-08-11T09:21:02Z",
+  "features": [
+      {
+        "type": "Feature",
+        "id": "relation/66780",
+        "properties": {
+          "@id": "relation/66780",
+          "TMC:cid_58:tabcd_1:Class": "Area",
+          "TMC:cid_58:tabcd_1:LCLversion": "8.00",
+          "TMC:cid_58:tabcd_1:LocationCode": "4882",
+          "admin_level": "10",
+          "boundary": "administrative",
+          "name": "Bezirksteil Milbertshofen",
+          "type": "boundary",
+          "@timestamp": "2013-11-23T21:48:21Z",
+          "@version": "15",
+          "@changeset": "19081999",
+          "@user": "Basstoelpel",
+          "@uid": "72235"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                11.5709125,
+                48.1774926
+              ],
+              [
+                11.5744191,
+                48.1779292
+              ],
+              [
+                11.5781624,
+                48.1778501
+              ],
+              [
+                11.5852845,
+                48.1775444
+              ],
+              [
+                11.5852714,
+                48.1776873
+              ],
+              [
+                11.584888,
+                48.1818562
+              ],
+              [
+                11.5846165,
+                48.1848639
+              ],
+              [
+                11.5843596,
+                48.1878615
+              ],
+              [
+                11.5842646,
+                48.1890014
+              ],
+              [
+                11.5841988,
+                48.1904005
+              ],
+              [
+                11.5660605,
+                48.1904421
+              ],
+              [
+                11.5655979,
+                48.1904433
+              ],
+              [
+                11.5660477,
+                48.1871845
+              ],
+              [
+                11.566525,
+                48.1842352
+              ],
+              [
+                11.5667212,
+                48.1819425
+              ],
+              [
+                11.5670157,
+                48.1806764
+              ],
+              [
+                11.5671942,
+                48.1799092
+              ],
+              [
+                11.5673936,
+                48.1781675
+              ],
+              [
+                11.5676305,
+                48.1770214
+              ],
+              [
+                11.5677454,
+                48.1767342
+              ],
+              [
+                11.5698189,
+                48.1772307
+              ],
+              [
+                11.5709125,
+                48.1774926
+              ]
+            ]
+          ]
+        }
+      }
+  ]
+}
